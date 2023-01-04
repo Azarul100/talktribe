@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589568007478",
+    "project_id": "flutter-final-group",
+    "storage_bucket": "flutter-final-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589568007478:android:433e74b4d2882a199fe797",
+        "android_client_info": {
+          "package_name": "com.example.talktribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589568007478-rutlmiqgjek2rsrla5brrgie105hcgp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYWmpfrgpIXbE74_XXefKZIMoUbmLADo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589568007478-rutlmiqgjek2rsrla5brrgie105hcgp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

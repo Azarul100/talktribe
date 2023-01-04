@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589568007478-eofkd3k6g11b2onns8hg834743nsosmn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589568007478-eofkd3k6g11b2onns8hg834743nsosmn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj8b0Harrz55izbdVZ3TH6ac3v5yvDIAE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589568007478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.talktribe</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-final-group</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-final-group.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589568007478:ios:13e40e283ae503099fe797</string>
+</dict>
+</plist>
